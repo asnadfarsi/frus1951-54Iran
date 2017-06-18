@@ -1,0 +1,356 @@
+Abbreviations and Terms
+
+
+AA, anti-aircraft
+
+ADPC (also AD/OPC), Assistant Director for Policy Coordination
+
+AFP, Agence France-Presse
+
+AIOC, Anglo-Iranian Oil Company
+
+ALR, Arthur L. Richards
+
+Amb, Ambassador
+
+AmConsul, American Consul(ate)
+
+Amer, American
+
+AP, Associated Press
+
+ARAMCO, Arabian-American Oil Company
+
+ARMISH, United States Military Mission with the Iranian Army
+
+AWD, Allen W. Dulles
+
+BBC, British Broadcasting Corporation
+
+B/D, barrels per day
+
+BMI, Bank Melli Iran
+
+BNA, Office of British Commonwealth and Northern European Affairs, Bureau of European Affairs, Department of State
+
+BNE, Board of National Estimates, Directorate of Intelligence, Central Intelligence Agency
+
+BOB, Bureau of the Budget
+
+Brit, British
+
+CFM, Council of Foreign Ministers
+
+CGSAC, Commanding General, Strategic Air Command
+
+CIA, Central Intelligence Agency
+
+CINCNELM, Commander in Chief, United States Naval Forces, Eastern Atlantic and Mediterranean
+
+cld, could
+
+CNE, Chief of the Near East and Africa Division, Directorate of Plans, Central Intelligence Agency
+
+C/NEA (also CNEA) , Chief of the Near East and Africa Division, Directorate of Plans, Central Intelligence Agency
+
+Col., Colonel
+
+Cominform, Communist Information Bureau (informal name of the Information Bureau of the Communist and Workers' Parties)
+
+Conf, conference
+
+Cons, Consuls; Consulates
+
+conv, conversation
+
+COS, Chief of Staff; Chief of Station
+
+C/PAD, Chief of the Political Action Division, Directorate of Plans, Central Intelligence Agency
+
+CUCTU, Central United Council of Trade Unions (Iran)
+
+DADPC, Deputy Assistant Director of Policy Coordination, Central Intelligence Agency
+
+DCI, Director of Central Intelligence
+
+DCOS, Deputy Chief of Staff
+
+DD/A, Deputy Director for Administration, Central Intelligence Agency
+
+DDCI (also D/DCI), Deputy Director of Central Intelligence
+
+DDE, Dwight D. Eisenhower
+
+DDI (also DD/I), Deputy Director for Intelligence, Central Intelligence Agency
+
+DDO, Deputy Director for Operations, (successor to the Deputy Director for Plans), Central Intelligence Agency
+
+DDP (also DD/P), Deputy Director for Plans, Central Intelligence Agency
+
+Depcirctel, Department circular telegram
+
+Dept, Department
+
+Deptel, Department of State telegram
+
+DI, Directorate of Intelligence, Central Intelligence Agency
+
+dissem, dissemination
+
+div, division
+
+DMS, Office of the Director of the Mutual Security Agency
+
+DO, Directorate of Operations (successor to the Directorate of Plans), Central Intelligence Agency
+
+DOD, Department of Defense
+
+DOS, Department of State
+
+E&E, escape and evacuation
+
+Emb, Embassy
+
+Embtel, Embassy telegram
+
+EXIM, Export-Import Bank
+
+FBI, Federal Bureau of Investigation
+
+FBIS, Foreign Broadcast Information Service
+
+FGW, Frank G. Wisner
+
+finan, financial
+
+FNU, first name unknown
+
+FOA, Foreign Operations Administration
+
+FonOff, Foreign Office
+
+FY, fiscal year
+
+FYI, for your information
+
+G–2, military intelligence
+
+Gen. (also Genl.), General
+
+GER, Office of German Affairs, Bureau of European Affairs, Department of State
+
+GOI, Government of Iran
+
+govt, government
+
+grp, group
+
+GTI, Office of Greek, Turkish, and Iranian Affairs, Bureau of Near Eastern, South Asian, and African Affairs, Department of State
+
+HIM, His Imperial Majesty
+
+HMG, His/Her Majesty's Government
+
+HQS, headquarters
+
+IAC, Intelligence Advisory Committee
+
+IBRD, International Bank for Reconstruction and Development
+
+ICJ, International Court of Justice
+
+IMF, International Monetary Fund
+
+immed, immediate
+
+inf, infantry
+
+intnatl, international
+
+IranGov, Government of Iran
+
+JCS, Joint Chiefs of Staff
+
+JHW, John H. Waller
+
+JIC, Joint Intelligence Committee (UK)
+
+KR, Kermit Roosevelt
+
+KUBARK, cryptonym for Central Intelligence Agency
+
+KUCLUB, cryptonym for Office of Communications, Central Intelligence Agency
+
+LWH, Loy W. Henderson
+
+MA, military attaché
+
+MAAG, Military Assistance Advisory Group
+
+mbrs, members
+
+MDAP, Mutual Defense Assistance Program
+
+ME, Middle East
+
+MFA, Minister of Foreign Affairs
+
+mil, military
+
+milatts, military attachés
+
+MilGov, Military Governor
+
+milsitrep, military situation report
+
+Min, Minister
+
+Min Court, Minister of Court
+
+MinFonAff, Minister for Foreign Affairs
+
+MinInt, Minister of the Interior
+
+morn, morning
+
+MSA, Mutual Security Administration
+
+natl, national
+
+NATO, North Atlantic Treaty Organization
+
+NE, Office of Near Eastern Affairs, Bureau of Near Eastern, South Asian, and African Affairs, Department of State; Near East
+
+NEA, Bureau of Near Eastern, South Asian, and African Affairs, Department of State; Near East and Africa Division, Directorate of Plans, Central Intelligence Agency
+
+negots, negotiations
+
+NF, National Front (Iran)
+
+NIACT, night action, communications indicator requiring attention by the recipient at any hour of the day or night
+
+NIC, National Intelligence Council
+
+NIE, National Intelligence Estimate
+
+NIOC, National Iranian Oil Company
+
+NMF, National Movement Faction
+
+Noforn, no foreign dissemination
+
+NSC, National Security Council
+
+OCB, Operations Coordinating Board
+
+OCI, Office of Current Intelligence, Directorate of Intelligence, Central Intelligence Agency
+
+ODACID, cryptonym for Department of State
+
+ODDI, Office of the Deputy Director for Intelligence, Central Intelligence Agency
+
+ODYOKE, cryptonym for U.S. Government
+
+OIR, Office of Intelligence and Research, Department of State
+
+ONE, Office of National Estimates, Directorate of Intelligence, Central Intelligence Agency
+
+ONI, Office of Naval Intelligence
+
+OPC, Office of Policy Coordination, Directorate of Plans, Central Intelligence Agency
+
+ORR, Office of Research and Reports, Directorate of Intelligence, Central Intelligence Agency
+
+OSD, Office of the Secretary of Defense
+
+OSD/ISA, International Security Affairs, Office of the Secretary of Defense
+
+OSO, Office of Special Operations, Central Intelligence Agency
+
+PED, Petroleum Policy Staff, Office of International Materials Policy, Department of State
+
+PM, Prime Minister; paramilitary
+
+pol (also polit), political
+
+PP, psychological and political
+
+PPS, Policy Planning Staff, Department of State
+
+PriMin, Prime Minister
+
+PSB, Psychological Strategy Board
+
+recd, received
+
+reftel, reference telegram
+
+Ret., retired
+
+RG, Record Group
+
+ROK, Republic of Korea
+
+rpt, repeat
+
+rptd, repeated
+
+RSFSR, Rossiyskaya Sovetskaya Federativnaya Sotsialisticheskaya Respublika (Russian Soviet Federative Socialist Republic)
+
+SAC, Strategic Air Command
+
+shld, should
+
+SIS, Secret Intelligence Service (UK)
+
+SNIE, Special National Intelligence Estimate
+
+SO, Special Operations
+
+Sov, Soviet
+
+S/P, Policy Planning Staff, Department of State
+
+svc, service
+
+TCA, Technical Cooperation Administration, Department of State
+
+TCI, Technical Cooperation Administration Mission in Iran
+
+TEHE, Tehran
+
+UK, United Kingdom
+
+UN, United Nations
+
+unn, unnumbered
+
+ur, your
+
+urtel, your telegram
+
+US, United States
+
+USA, United States Army
+
+USAF, United States Air Force
+
+USG, United States Government
+
+USN, United States Navy
+
+USSR, Union of Soviet Socialist Republics
+
+VOA, Voice of America
+
+Wash. , Washington
+
+WBS, Walter Bedell Smith
+
+WE, Western Europe
+
+wld, would
+
+Z, Zulu time (Greenwich Mean Time)
+
+
